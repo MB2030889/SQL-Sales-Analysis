@@ -3,6 +3,7 @@
 ## Overview
 This project demonstrates SQL skills using a SQLite database to analyze sales data.
 The database models customers, products, orders, and order items.
+Database is in the repository.
 
 ## Tools Used
 - SQLite3
